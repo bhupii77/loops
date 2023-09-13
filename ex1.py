@@ -1,4 +1,4 @@
-from turtle import*
+from turtle import*   # 'from turtle import' is for brings object from the module 
 
 '''fd(100)
 lt(90)
