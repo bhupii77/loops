@@ -6,3 +6,4 @@ while True :
     fd (10+i)
     rt(90)
     i +=10
+    #i= i+20
