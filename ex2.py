@@ -14,6 +14,6 @@ for p in range (5):
       fd(60)
       lt(90)'''
 
-#hideturtle()
+hideturtle()
 mainloop()
                         
